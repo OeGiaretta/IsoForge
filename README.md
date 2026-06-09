@@ -1,2 +1,2 @@
 # IsoForge
-Ferramenta para forjar formas 3D a partir de dados matemáticos.
+Ferramenta para forjar isosuperfícies a partir de expressões matemáticas.
