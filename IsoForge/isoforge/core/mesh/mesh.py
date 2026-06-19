@@ -9,4 +9,3 @@ class Mesh:
     
     def triangle_count(self):
         return len(self.triangles)
-    
